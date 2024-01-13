@@ -100,6 +100,7 @@ Project Structure
   $ source env/bin/activate
   ```
 
+
 3. Install the dependencies:
   ```
   $ pip install -r requirements.txt
